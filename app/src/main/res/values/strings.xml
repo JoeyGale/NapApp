@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nap App</string>
+    <string name="txtTitle">Nap App</string>
+    <string name="btnSchedule">Create \\ Update Schedule</string>
+    <string name="btnTakeNap">Take A Nap</string>
+    <string name="btnSeeNotes">See Notes</string>
+    <string name="txtAuthors">By: Joey Gale and Nathan Hawkins</string>
+</resources>
